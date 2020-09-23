@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+.vs
+Debug
+/ipch/TEST-MEMORY-LEAK-10cbb05b/*.ipch
+/*.db
+/*.opendb
+/source/*.user

@@ -1,0 +1,1 @@
+rundll32.exe "test-memory-leak.dll",TestMemoryLeak
